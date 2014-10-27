@@ -4,14 +4,12 @@ By: Javier Ruiz-Arduengo
 Begin Date: 05/06/2014
 End Date: 14/06/2014
 """
-#raymond_ho@durham.edu.on.ca
 
 import random
 
 #global variable
 grid = []
    
-
 def createboard (row,col,dispBoard):
 
     #CREATE EMPTY NUMBER BOARD
